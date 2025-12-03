@@ -1,3 +1,45 @@
+# Metana Bootcamp - Solidity Development
+## Jakob Johnson
+
+Smart contracts and DApps built during the Metana Blockchain Development Bootcamp (Dec 2024 - Jan 2025).
+
+## 🛠️ Tech Stack
+
+- Solidity ^0.8.20
+- Foundry
+- OpenZeppelin
+- Sepolia Testnet
+
+## 📚 Modules
+
+- **M1:** Auction & Crowdfunding contracts
+- **M2:** Escrow factory with CREATE2
+- **M3:** Role-based rewards pool
+- **M4:** ERC-20, ERC-721, ERC-1155 implementations
+- **M5:** Token sale with frontend DApp
+- **M6:** Time-locked wallet
+- **M7:** DAO with Governor + Timelock
+- **M8-M14:** In progress
+
+## 🚀 Running Tests
+```bash
+cd [module-directory]
+forge test
+```
+
+## 📫 Connect
+
+- GitHub: [@jakejohndoe]
+- Twitter: [@jakejohnhello]
+
+---
+
+Building towards a Web3 development career.
+
+
+-------------------
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
