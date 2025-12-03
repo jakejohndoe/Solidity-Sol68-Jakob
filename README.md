@@ -1,7 +1,7 @@
 # Metana Bootcamp - Solidity Development
 ## Jakob Johnson
 
-Smart contracts and DApps built during the Metana Blockchain Development Bootcamp (Dec 2024 - Jan 2025).
+Smart contracts and DApps built during the Metana Blockchain Development Bootcamp (Aug 2024 - Jan 2025).
 
 ## 🛠️ Tech Stack
 
