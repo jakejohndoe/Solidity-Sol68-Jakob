@@ -13,8 +13,8 @@ Smart contracts and DApps built during the Metana Blockchain Development Bootcam
 
 ## 📚 Modules
 
-- **M1:** Auction & Crowdfunding contracts
-- **M2:** Escrow factory with CREATE2
+- **M1:** Auction & Crowdfunding contracts -- DONE
+- **M2:** Escrow factory with CREATE2 -- WORKING
 - **M3:** Role-based rewards pool
 - **M4:** ERC-20, ERC-721, ERC-1155 implementations
 - **M5:** Token sale with frontend DApp
