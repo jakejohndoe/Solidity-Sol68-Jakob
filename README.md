@@ -10,6 +10,7 @@ Smart contracts and DApps built during the Metana Blockchain Development Bootcam
 - Foundry
 - OpenZeppelin
 - Sepolia Testnet
+- Goerli Testnet
 
 ## 📚 Modules
 
@@ -33,6 +34,7 @@ forge test
 
 - GitHub: [@jakejohndoe]
 - Twitter: [@jakejohnhello]
+- LinkedIn: [https://www.linkedin.com/in/jakejohndoe/]
 
 ---
 
